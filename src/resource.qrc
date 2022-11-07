@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>GameImage/BreakableBlock.png</file>
+        <file>GameImage/Flame.png</file>
+        <file>GameImage/Flower.png</file>
+        <file>GameImage/GoalBlock.png</file>
+        <file>GameImage/JumpEnemy.png</file>
+        <file>GameImage/MoveBlock.png</file>
+        <file>GameImage/Mushroom.png</file>
+        <file>GameImage/NormalBlock.png</file>
+        <file>GameImage/NormalEnemy.png</file>
+        <file>GameImage/Player1.png</file>
+        <file>GameImage/Player2.png</file>
+        <file>GameImage/Player3.png</file>
+        <file>GameImage/Projectile.png</file>
+        <file>GameImage/ShootEnemy.png</file>
+        <file>GameImage/SpikeBlock.png</file>
+        <file>GameImage/SpringBlock.png</file>
+        <file>GameImage/FlameBlock.png</file>
+    </qresource>
+    <qresource prefix="/level">
+        <file>LevelFile/customLevel1.txt</file>
+        <file>LevelFile/customLevel2.txt</file>
+        <file>LevelFile/defaultLevel.txt</file>
+    </qresource>
+</RCC>
