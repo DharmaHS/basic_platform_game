@@ -17,3 +17,11 @@ This is somewhat of a basic basic mario clone and less polished with a function 
 
 -Accessable level editor
 
+# Screenshots
+-game window:
+
+![PlayWindow](https://github.com/DharmaHS/basic_platform_game/blob/main/documentation_image/ss_play.PNG)
+
+-level editor:
+
+![EditorWindow](https://github.com/DharmaHS/basic_platform_game/blob/main/documentation_image/ss_level_editor.PNG)
